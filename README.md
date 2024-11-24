@@ -37,6 +37,6 @@ By combining these two approaches, the hybrid model balances individual preferen
 Created a frontend for the project using Flask Library in python.
 <hr>
 <h2>Necessary Screen Shots</h2>
-![Screenshot 2024-11-25 001000](https://github.com/user-attachments/assets/54e72272-67fa-4a9a-bc20-1844c3aac3cd) <br>
+(https://github.com/user-attachments/assets/54e72272-67fa-4a9a-bc20-1844c3aac3cd) <br>
 ![Screenshot 2024-11-25 001037](https://github.com/user-attachments/assets/0f016a8f-cd94-4593-bf60-b21009c828b1)
 
